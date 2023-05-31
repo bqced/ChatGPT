@@ -1,4 +1,4 @@
-# ChatGPT-
+# ChatGPT
 This scripts removes some of the filters and restrictions imposed to ChatGPT but not completlely, this script will not make ChatGPT completely unrestricted.
 
 Copy the script below and Paste it in the ChatGPT as a query.
